@@ -6,7 +6,7 @@
     "next": "15.1.7",
     "react": "19.0.0",
     "react-dom": "19.0.0",
-    "@inlang/paraglide-next": "0.7.1"
+    "@inlang/paraglide-next": "0.7.2"
   },
   "devDependencies": {
     "@types/node": "^20",
